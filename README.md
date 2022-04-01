@@ -16,7 +16,7 @@ O __Factory Method__ é um padrão criacional de projeto que fornece uma interfa
 
 ## Implementados
 
-- [ ] Factory Method
+- [x] Factory Method
 
 ---
 
