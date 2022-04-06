@@ -10,9 +10,14 @@ Cada pasta representa um projeto simples e prático onde determinado __padrão__
 
 O __Factory Method__ é um padrão criacional de projeto que fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.
 
+### Abstract Factory
+
+O __Abstract Factory__ é um padrão criacional de projeto que fornece uma interface para criar objetos de uma mesma família sem depender de classes concretas.
+
 ## Implementados
 
 - [x] Factory Method
+- [x] Abstract Factory  
 
 ## Referências
 
