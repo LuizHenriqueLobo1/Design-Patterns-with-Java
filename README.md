@@ -14,10 +14,15 @@ O __Factory Method__ é um padrão criacional de projeto que fornece uma interfa
 
 O __Abstract Factory__ é um padrão criacional de projeto que fornece uma interface para criar objetos de uma mesma família sem depender de classes concretas.
 
+### Builder
+
+O __Builder__ é um padrão criacional que permite construir objetos complexos passo a passo. O padrão permite que você produza diferentes tipos e representações de um objeto usando o mesmo código de construção.
+
 ## Implementados
 
 - [x] Factory Method
 - [x] Abstract Factory  
+- [x] Builder
 
 ## Referências
 
