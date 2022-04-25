@@ -18,11 +18,16 @@ O __Abstract Factory__ é um padrão criacional de projeto que fornece uma inter
 
 O __Builder__ é um padrão criacional que permite construir objetos complexos passo a passo. O padrão permite que você produza diferentes tipos e representações de um objeto usando o mesmo código de construção.
 
+### Prototype
+
+O __Prototype__ é um padrão de criacional que permite copiar objetos existentes sem fazer seu código ficar dependente de suas classes.
+
 ## Implementados
 
 - [x] Factory Method
 - [x] Abstract Factory  
 - [x] Builder
+- [x] Prototype
 
 ## Referências
 
