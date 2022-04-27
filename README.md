@@ -20,7 +20,11 @@ O __Builder__ é um padrão criacional que permite construir objetos complexos p
 
 ### Prototype
 
-O __Prototype__ é um padrão de criacional que permite copiar objetos existentes sem fazer seu código ficar dependente de suas classes.
+O __Prototype__ é um padrão criacional que permite copiar objetos existentes sem fazer seu código ficar dependente de suas classes.
+
+### Singleton
+
+O __Singleton__ é um padrão criacional que permite garantir que uma classe tenha apenas uma instância, enquanto provê um ponto de acesso global para essa instância.
 
 ## Implementados
 
@@ -28,6 +32,7 @@ O __Prototype__ é um padrão de criacional que permite copiar objetos existente
 - [x] Abstract Factory  
 - [x] Builder
 - [x] Prototype
+- [x] Singleton
 
 ## Referências
 
